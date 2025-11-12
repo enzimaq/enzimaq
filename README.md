@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @qamb12
+- 👋 Hi, I’m @enzimaq
 - 👀 I’m interested in Data Science and Machine Learning.
 - 🌱 I’m currently learning Python, R, SQL.
 - 💞️ I’m looking to collaborate on health-related projects.
